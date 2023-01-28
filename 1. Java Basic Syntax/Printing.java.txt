@@ -1,7 +1,0 @@
-class CodeChef {
-  public static void main(String[] args) {
-    System.out.print("First Output");
-    System.out.println("Second Output");
-    System.out.print("Third Output");
-  }
-}

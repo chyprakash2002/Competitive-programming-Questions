@@ -1,6 +1,0 @@
-class CodeChef {
-  public static void main(String[] args) {
-    System.out.println(13 * 11);
-    System.out.print(2 * (13 + 11));
-  }
-}
